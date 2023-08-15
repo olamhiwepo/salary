@@ -6,17 +6,9 @@
 
 This is a repository that contains the analysis of the salaries of a company's employees. The dataset used in the project is also included in the repository
 
-# Installation
-
-The libraries used on this project include;
-
-* Pandas -  for working with data sets which includes analyzing, cleaning, exploring and manipulating data.
-* Matplotlib - for data avisualization
-* seaborn - for data visualization
-
 # Introduction
 
-I analyzed the dataset which contains information of 148,654 employees and their salary structure. The analysis is focused on answering the following questions:
+I analyzed the dataset which contains information of 148,654 employees and their salary structure. The analysis which was done using SQL is focused on answering the following questions:
 
 * WHAT IS THE AVERAGE BASEPAY?
 * WHAT IS THE HIGHEST AMOUNT OF OVERTIME PAY IN THE DATASET?
